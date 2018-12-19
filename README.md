@@ -1,5 +1,5 @@
 libreFromGPG
-###
+---
 
 Decrypts LibreOffice files messed up by half-assed GPG2Libre implementation of GPG encryption.
 
